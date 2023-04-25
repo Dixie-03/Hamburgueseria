@@ -1,0 +1,22 @@
+ 1 * erro al momento de registrar un nuevo cliente al momento de seleccionar providencia y 
+localidad no me sale el listado
+
+2* no me aparece la hora en venta formulario
+
+3* me da error al momento de guardar en ventas formulario
+
+
+laravel new proyecto
+php artisan serv
+cd proyecto
+dir
+https://getcomposer.org/download/
+
+ya tengo el optener filtrado en la entidad
+y el cargar grilla
+git config --global user.name “usuario”
+git config --global user.email “correo”
+ git status para desbloquear
+git add . para actualizar
+git commit -m "cambios" para subir cambios
+
